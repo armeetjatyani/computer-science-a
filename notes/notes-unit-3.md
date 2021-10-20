@@ -23,3 +23,8 @@ String[] flavors = new String[5];
 String[] predefinedFlavors = {"vanilla", "chocolate", "orange", "violet", "mystery"};
 ```
 
+# U3L2 - 
+`10-19-21`<br>
+
+# U3L3 - Traversing Arrays with For Loops
+`10-20-21`<br>
