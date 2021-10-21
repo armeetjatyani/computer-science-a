@@ -28,3 +28,10 @@ String[] predefinedFlavors = {"vanilla", "chocolate", "orange", "violet", "myste
 
 # U3L3 - Traversing Arrays with For Loops
 `10-20-21`<br>
+
+# U3L4 - Traversing Arrays with While Loops
+`10-20-21`<br>
+## Vocab
+- **while loop**: executes a block of code repeatedly as long as a condition is true
+- **infinite loop**: a loop that never stops running
+- 
