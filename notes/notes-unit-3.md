@@ -34,4 +34,8 @@ String[] predefinedFlavors = {"vanilla", "chocolate", "orange", "violet", "myste
 ## Vocab
 - **while loop**: executes a block of code repeatedly as long as a condition is true
 - **infinite loop**: a loop that never stops running
-- 
+
+# U3L5 - Storing objects into Arrays
+`10-22-21`<br>
+## Vocab
+- **polymorphism** ability to perform an action in diff ways, super/child class 
