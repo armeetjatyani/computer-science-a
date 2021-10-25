@@ -11,6 +11,14 @@
 - **initializer list**: creates and initializes the elements in an array to a list of values given inside curly braces { }
 - **length**: `array.length` the length of an array is how many elements it can store
 - **`ArrayIndexOutofBoundsException`**: when an index value outside of [0, length - 1], index is out of bounds of array
+- **When to Use Enhanced for Loops** 
+    - Looping through all the values in an array without changing their values
+    - Looping through all the values in an array in order starting at index: 0
+
+- **Do not use when**
+    - you need the index of the element
+    - you need to change the values in the array
+    - you want to loop through only part of the array
 
 ## Exercise
 **Do this** Declare and init an array called flavors to store 5 flavors.
@@ -39,3 +47,18 @@ String[] predefinedFlavors = {"vanilla", "chocolate", "orange", "violet", "myste
 `10-22-21`<br>
 ## Vocab
 - **polymorphism** ability to perform an action in diff ways, super/child class 
+
+# U3L6 - Traversing Arrays with Enhanced for Loops
+`10-25-21`<br>
+## Vocab
+- **enhanced for-loop** simplified for loop that iterates through every element of the array, starting at element 0 
+
+## Do This:
+Draw a 3 column table on a piece of paper. For each type of loop, write down situations when it is best to use it instead of the other types of loops.
+
+- while loop
+    - when you don't know for how long you will have to iterate and you want to keep going until a conditional is met
+- for loop 
+    - when you need the index
+- enhanced for loop
+    - when you just need to quickly go through each element (element only) of your array
